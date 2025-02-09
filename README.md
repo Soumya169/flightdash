@@ -11,15 +11,15 @@ The **Flight Analytics Dashboard** is a powerful and intuitive tool designed to 
 
 ## Screenshots
 ### 1. About the Project
-![About the Project](./image1.png)
+![About the Project](Home.png)
 This section provides an introduction to the project, explaining its purpose and key features.
 
 ### 2. Search for Flights
-![Search for Flights](./image2.png)
+![Search for Flights](first.png)
 A user-friendly interface allows travelers to select source and destination airports to search for available flights.
 
 ### 3. Flight Data Analytics
-![Flight Data Analytics](./image3.png)
+![Flight Data Analytics](third.png)
 A detailed dashboard showcasing airline market share, busiest airports, and other important flight-related insights.
 
 ## Technologies Used
