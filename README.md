@@ -26,5 +26,5 @@ A detailed dashboard showcasing airline market share, busiest airports, and othe
 - **Python**
 - **Streamlit**
 - **SQL**
-- **Pandas**
-- **Matplotlib / Seaborn** (for visualization)
+- **Ploty** (for visualization)
+- **XAMPP** 
