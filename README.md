@@ -28,5 +28,3 @@ A detailed dashboard showcasing airline market share, busiest airports, and othe
 - **SQL**
 - **Pandas**
 - **Matplotlib / Seaborn** (for visualization)
-
-- 
